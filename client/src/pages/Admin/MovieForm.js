@@ -107,8 +107,6 @@ function MovieForm({
                 <option value="Comedy">Comedy</option>
                 <option value="Drama">Drama</option>
                 <option value="Romance">Romance</option>
-                <option value="Horror">Romance</option>
-                <option value="Comedy-Horror">Romance</option>
               </select>
             </Form.Item>
           </Col>
